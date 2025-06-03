@@ -17,7 +17,7 @@ csv_file_path = '/content/drive/My Drive/diabetes.csv' # Replace with your file 
 df = pd.read_csv(csv_file_path)
 print(df.head())
 
-!pip install streamlit
+
 
 # prompt: berikan saya code untuk menampilkan data tersebut pada streamlit
 
